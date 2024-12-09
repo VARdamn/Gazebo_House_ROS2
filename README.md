@@ -40,5 +40,5 @@ colcon build --symlink-install
 
 ### Запуск симуляции в ROS2
 ```
-ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py nav2:=true slam:=false localization:=true rviz:=true
+ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py
 ```
